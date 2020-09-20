@@ -10,7 +10,7 @@
 
 #### Check out the frontend repo:
 
-[Tinder Clone Frontend](https://github.com/amantina05/tinder-clone// 'Tinder Clone Frontend')
+[Whatsapp Clone Frontend](https://github.com/amantina05/whatsapp/tree/master/whatsapp-mern/ 'Whatsapp Clone Frontend')
 
 #### Marketing copy:
 
