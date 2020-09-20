@@ -8,10 +8,6 @@
 
 [Whatsapp Clone](https://whatsapp-mern-996db.web.app/ 'Whatsapp Clone')
 
-#### Video Walk-through:
-
-![](https://j.gifs.com/gZ0EQY.gif)
-
 #### Check out the frontend repo:
 
 [Tinder Clone Frontend](https://github.com/amantina05/tinder-clone// 'Tinder Clone Frontend')
