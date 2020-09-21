@@ -10,7 +10,7 @@
 
 #### Check out the frontend repo:
 
-[Whatsapp Clone Frontend](https://github.com/amantina05/whatsapp/tree/master/whatsapp-mern/ 'Whatsapp Clone Frontend')
+[Whatsapp Clone Frontend](https://github.com/amantina05/whatsapp-mern/ 'Whatsapp Clone Frontend')
 
 #### Marketing copy:
 
